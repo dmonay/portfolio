@@ -21,7 +21,7 @@ export class Home extends React.Component {
 							style={{ width: '180px', borderRadius: '100%' }}
 						/>
 
-						<h1 className="mb-2 mt-0"></h1>
+						<h1 className="mb-2 mt-0">{''}</h1>
 
 						<span style={{ fontSize: '20px' }}>
 							I'm a{' '}
