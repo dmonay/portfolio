@@ -3,7 +3,6 @@ import { Container } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import ParticlesContainer from '../components/ParticlesContainer';
 import TextLoop from 'react-text-loop';
-import styled from 'styled-components';
 import { Scroller } from '../components';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import details from '../data/details.json';
