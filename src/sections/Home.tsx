@@ -8,11 +8,6 @@ import { Scroller } from '../components';
 import { fab } from '@fortawesome/free-brands-svg-icons';
 import details from '../data/details.json';
 
-const Dot = styled.div({
-	color: '#25d2db',
-	display: 'inline'
-});
-
 export class Home extends React.Component {
 	render() {
 		return (
@@ -27,11 +22,7 @@ export class Home extends React.Component {
 							style={{ width: '180px', borderRadius: '100%' }}
 						/>
 
-						<h1 className="mb-2 mt-0">
-							{/* {details.firstName}
-							<Dot>{details.middleName}</Dot>
-							{details.lastName} */}
-						</h1>
+						<h1 className="mb-2 mt-0"></h1>
 
 						<span style={{ fontSize: '20px' }}>
 							I'm a{' '}
