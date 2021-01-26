@@ -1,0 +1,22 @@
+{
+	"recommendations": [
+		{
+			"name": "Faiyam Rahman",
+			"avatar": "/images/faiyam.jpg",
+			"jobTitle": "Lead Backend Engineer at Seasons",
+			"recommendation": "<p> Dmitry is the kind of person who is unwilling to settle for a cursory understanding of the matter at hand. Whether it’s a 3 month project or a lifelong craft, he always goes above and beyond the minimum requirements to execute at a high level. </p> <p>One simple example: when we were fresh out of college, he and I both plumbed our way through an array of programming tutorials to teach ourselves how to code. Just a few years later, in his work hours he was a technical lead at a Y Combinator startup. In his off hours, he was working his way through Donald Knuth’s “The Art of Computer Programming” series, a 3000 page classic for those who want to <b>program computers</b>, rather than surf Stack Overflow. </p> <p>Beyond his technical understanding and ability to execute, Dmitry is a wonderful colleague who is always willing to do what’s needed to deliver the task at hand. I've worked with him in a variety of capacities over the last 15 years. It’s been a true privilege to have had the chance to collaborate with him, and I recommend him without reservation as a colleague, friend, and human.</p>"
+		},
+		{
+			"name": "Will Hanson",
+			"avatar": "/images/will.jpg",
+			"jobTitle": "Chief Technical Officer at Canopy Inc",
+			"recommendation": "<p> I've had the pleasure of working with Dmitry for the past 2 years. I've seen him work primarily with JavaScript (react, redux, node), and Golang. He's helped me hire and build 2 world class full stack engineering teams. Two of his best qualities are how well thought out his decisions are and how polite he is. </p> <p> He is the kind of guy that you just feel at ease when you talk to him and that has translated into results like building an app for Hatchify from the back of a napkin to a fully productionized and fault tolerant system in 6 months. We completed the original architecture and build for Hatchify 2 months ahead of schedule and with extra features, after that he helped us scale out the engineering team. </p>"
+		},
+		{
+			"name": "Kelson Adams",
+			"avatar": "/images/kelson.jpg",
+			"jobTitle": "Senior Software Engineer at GovernmentCIO",
+			"recommendation": "<p> Dmitry and I went through a lot together - there was even a period of about 3 weeks where we both worked 15 hour days alongside one another building feature after feature, including weekends. Not only is he is a very calculated and talented engineer, but he's also cognizant of what his code means in a greater context. He was adamant about documenting all business decisions and code to ensure other devs on the team had an easy time navigating the codebases. He also introduced several processes for our team that really enabled us to move quickly and efficiently.</p> <p> Perhaps most important of all, Dmitry is a value-driven and kind person who would be an incredible teammate at any company. </p>"
+		}
+	]
+}
