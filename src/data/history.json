@@ -8,7 +8,7 @@
 		},
 		{
 			"period": "2009 – 2013",
-			"school": "Johns Hopkins Universiry",
+			"school": "Johns Hopkins University",
 			"degree": "Bachelor of Arts (History, Premed)",
 			"description": ""
 		},
@@ -21,10 +21,10 @@
 	],
 	"career": [
 		{
-			"period": "2020 - Present",
+			"period": "2020 - 2021",
 			"company": "Canopy Inc",
 			"title": "Senior Software Engineer",
-			"description": "<p>Helping build a universal servicing platform for scaling Fintechs.</p>"
+			"description": "<p>As the first engineering hire, I helped define the frontend, backend, and devops architecture, as well as hire the rest of the dev team. Canopy provides an immutable, bitemporal system of record to other fintechs.</p>"
 		},
 		{
 			"period": "2019 - 2020",
@@ -48,7 +48,7 @@
 			"period": "2015 - 2017",
 			"company": "F#",
 			"title": "Backend Engineer",
-			"description": "As a backend engineer, I designed and implemented a RESTful API inusing Node.js, PostgreSQL and Memcached. My contributions included migrating legacy services from MongoDB to Postgres and improving and implementing coding standards, development process, and best practices shared across multiple dev teams."
+			"description": "As a backend engineer, I designed and implemented a RESTful API using Node.js, PostgreSQL and Memcached. My contributions included migrating legacy services from MongoDB to Postgres and improving and implementing coding standards, development process, and best practices shared across multiple dev teams."
 		},
 		{
 			"period": "2014 - 2015",
