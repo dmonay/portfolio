@@ -1,60 +1,66 @@
 {
-	"education": [
-		{
-			"period": "Winter 2019",
-			"school": "YCombinator",
-			"degree": "As Tech Lead at Hatch, helped company get accepted into the onsite Winter '19 batch and present at demo day",
-			"description": ""
-		},
-		{
-			"period": "2009 – 2013",
-			"school": "Johns Hopkins University",
-			"degree": "Bachelor of Arts (History, Premed)",
-			"description": ""
-		},
-		{
-			"period": "2005 – 2009",
-			"school": "Stuyvesant High School",
-			"degree": "High School Diploma",
-			"description": ""
-		}
-	],
-	"career": [
-		{
-			"period": "2020 - 2021",
-			"company": "Canopy Inc",
-			"title": "Senior Software Engineer",
-			"description": "<p>As the first engineering hire, I helped define the frontend, backend, and devops architecture, as well as hire the rest of the dev team. Canopy provides an immutable, bitemporal system of record to other fintechs.</p>"
-		},
-		{
-			"period": "2019 - 2020",
-			"company": "Mount Sinai Health System",
-			"title": "Software Engineer",
-			"description": "<p>As a senior engineer on the Consumer Digital team, I worked on projects aimed at creating a truly consumer-centric experience in healthcare. Our team challenged and rebuilt every experience a consumer has with the healthcare community - finding care, navigating the system, seeking support and service, and making payments.</p>"
-		},
-		{
-			"period": "2017 - 2019",
-			"company": "Hatch",
-			"title": "Tech Lead",
-			"description": "<p>As tech lead, I designed, built, and scaled the Go backend architecture for the messaging platform. I helped hire two team members and created new processes for us to scale as an engineering organization and company. Hatch was in the Winter 2019 batch at YCombinator.</p>"
-		},
-		{
-			"period": "2017 - 2017",
-			"company": "RealKey",
-			"title": "Senior Software Engineer",
-			"description": "As the frontend team lead, I oversaw the frontend architecture and led a team within an agile environment. My contributions included making a case for and overseeing a migration from DynamoDB to Postgres, an ACID-compliant database well-suited for financial applications."
-		},
-		{
-			"period": "2015 - 2017",
-			"company": "F#",
-			"title": "Backend Engineer",
-			"description": "As a backend engineer, I designed and implemented a RESTful API using Node.js, PostgreSQL and Memcached. My contributions included migrating legacy services from MongoDB to Postgres and improving and implementing coding standards, development process, and best practices shared across multiple dev teams."
-		},
-		{
-			"period": "2014 - 2015",
-			"company": "CrowdSurge (acquired by SongKick)",
-			"title": "Frontend Engineer",
-			"description": "As a frontend engineer, my responsibilities included building a point-of-sale frontend application using AngularJS and interfacing with an API consisting of a combination of new Go microservices and legacy PHP APIs."
-		}
-	]
+  "education": [
+    {
+      "period": "Winter 2019",
+      "school": "YCombinator",
+      "degree": "As Tech Lead at Hatch, helped company get accepted into the onsite Winter '19 batch and present at demo day",
+      "description": ""
+    },
+    {
+      "period": "2009 – 2013",
+      "school": "Johns Hopkins University",
+      "degree": "Bachelor of Arts (History, Premed)",
+      "description": ""
+    },
+    {
+      "period": "2005 – 2009",
+      "school": "Stuyvesant High School",
+      "degree": "High School Diploma",
+      "description": ""
+    }
+  ],
+  "career": [
+    {
+      "period": "2021 - Present",
+      "company": "",
+      "title": "Exploring Web3",
+      "description": "<p><a style=\"color: #001cff;\" href=\"https://reflect.site/g/dmonay/personal-defi-thesis-1070a6d8b9124f24b6176f5fb3f84aae\" target=\"_blank\"\">Overview of what I've been up to</a></p>"
+    },
+    {
+      "period": "2020 - 2021",
+      "company": "Canopy Inc",
+      "title": "Senior Software Engineer",
+      "description": "<p>As the first engineering hire, I helped define the frontend, backend, and devops architecture, as well as hire the rest of the dev team. Canopy provides an immutable, bitemporal system of record to other fintechs.</p>"
+    },
+    {
+      "period": "2019 - 2020",
+      "company": "Mount Sinai Health System",
+      "title": "Software Engineer",
+      "description": "<p>As a senior engineer on the Consumer Digital team, I worked on projects aimed at creating a truly consumer-centric experience in healthcare. Our team challenged and rebuilt every experience a consumer has with the healthcare community - finding care, navigating the system, seeking support and service, and making payments.</p>"
+    },
+    {
+      "period": "2017 - 2019",
+      "company": "Hatch",
+      "title": "Tech Lead",
+      "description": "<p>As tech lead, I designed, built, and scaled the Go backend architecture for the messaging platform. I helped hire two team members and created new processes for us to scale as an engineering organization and company. Hatch was in the Winter 2019 batch at YCombinator.</p>"
+    },
+    {
+      "period": "2017 - 2017",
+      "company": "RealKey",
+      "title": "Senior Software Engineer",
+      "description": "As the frontend team lead, I oversaw the frontend architecture and led a team within an agile environment. My contributions included making a case for and overseeing a migration from DynamoDB to Postgres, an ACID-compliant database well-suited for financial applications."
+    },
+    {
+      "period": "2015 - 2017",
+      "company": "F#",
+      "title": "Backend Engineer",
+      "description": "As a backend engineer, I designed and implemented a RESTful API using Node.js, PostgreSQL and Memcached. My contributions included migrating legacy services from MongoDB to Postgres and improving and implementing coding standards, development process, and best practices shared across multiple dev teams."
+    },
+    {
+      "period": "2014 - 2015",
+      "company": "CrowdSurge (acquired by SongKick)",
+      "title": "Frontend Engineer",
+      "description": "As a frontend engineer, my responsibilities included building a point-of-sale frontend application using AngularJS and interfacing with an API consisting of a combination of new Go microservices and legacy PHP APIs."
+    }
+  ]
 }
