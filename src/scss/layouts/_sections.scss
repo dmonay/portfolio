@@ -3,57 +3,57 @@
 /*=================================================================*/
 
 section {
-	padding-top: 110px;
-	position: relative;
+  padding-top: 110px;
+  position: relative;
 
-	&.home {
-		background: $color-dark;
-		padding: 0;
-		height: 100vh;
-		min-height: 100vh;
+  &.home {
+    background: $color-dark;
+    padding: 0;
+    height: 100vh;
+    min-height: 100vh;
 
-		.intro {
-			margin: auto;
-			max-width: 540px;
-			text-align: center;
-			position: relative;
-			z-index: 1;
+    .intro {
+      margin: auto;
+      max-width: 540px;
+      text-align: center;
+      position: relative;
+      z-index: 1;
 
-			h1 {
-				color: $color-white;
-				font-size: $font-size-largest;
-			}
+      h1 {
+        color: $color-white;
+        font-size: $font-size-largest;
+      }
 
-			span {
-				color: $color-white;
-				font-size: $font-size-normal;
-			}
-		}
+      span {
+        color: $color-white;
+        font-size: $font-size-normal;
+      }
+    }
 
-		.social-icons {
-			li {
-				a {
-					color: $color-white;
-				}
-			}
-		}
-	}
+    .social-icons {
+      li {
+        a {
+          color: #fff;
+        }
+      }
+    }
+  }
 }
 
 .section-title {
-	font-size: $font-size-largest;
-	margin: 0;
-	margin-left: 14px;
-	position: relative;
+  font-size: $font-size-largest;
+  margin: 0;
+  margin-left: 14px;
+  position: relative;
 
-	&:before {
-		content: '';
-		background-image: url('../../images/dots-bg.svg');
-		display: block;
-		height: 37px;
-		left: -14px;
-		top: -14px;
-		position: absolute;
-		width: 37px;
-	}
+  &:before {
+    content: "";
+    background-image: url("../../images/dots-bg.svg");
+    display: block;
+    height: 37px;
+    left: -14px;
+    top: -14px;
+    position: absolute;
+    width: 37px;
+  }
 }

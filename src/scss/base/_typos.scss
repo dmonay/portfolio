@@ -2,8 +2,13 @@
 /*                      TYPOGRAPHY                              
 /*=================================================================*/
 
-h1, h2, h3, h4, h5, h6 {
-  color: #454360;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
   font-family: $font-family;
   font-weight: $font-bold;
   margin: 20px 0;
@@ -42,7 +47,7 @@ blockquote {
   padding: 20px 20px;
   margin: 0 0 20px;
   font-size: $font-size-normal;
-  background: #F7F7F7;
+  background: #f7f7f7;
   border-radius: 10px;
 }
 
