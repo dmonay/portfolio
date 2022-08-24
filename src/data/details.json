@@ -1,36 +1,36 @@
 {
-	"firstName": "Dmitry",
-	"middleName": ".",
-	"lastName": "Pavluk",
-	"avatar": "/images/avatar.jpg",
-	"titles": [
-		"Senior Software Engineer",
-		"Woodworking Acolyte",
-		"Denizen of the Earth",
-		"Tiramisu Epicure",
-		"Knicks Fan",
-		"Grammar Enthusiast"
-	],
-	"socialNetworks": [
-		{
-			"link": "https://github.com/dmonay",
-			"iconName": "faGithub"
-		},
-		{
-			"link": "https://linkedin.com/in/dmitrypavluk",
-			"iconName": "faLinkedin"
-		},
-		{
-			"link": "https://medium.com/@dmitrypavluk",
-			"iconName": "faMedium"
-		},
-		{
-			"link": "https://twitter.com/@DmitryPavluk",
-			"iconName": "faTwitter"
-		},
-		{
-			"link": "https://angel.co/dmonay",
-			"iconName": "faAngellist"
-		}
-	]
+  "firstName": "Dmitry",
+  "middleName": ".",
+  "lastName": "Pavluk",
+  "avatar": "/images/avatar.jpg",
+  "titles": [
+    "Senior Software Engineer",
+    "Woodworking Acolyte",
+    "Denizen of the Earth",
+    "Tiramisu Epicure",
+    "Knicks Fan",
+    "Grammar Enthusiast"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/dmonay",
+      "iconName": "Github"
+    },
+    {
+      "link": "https://linkedin.com/in/dmitrypavluk",
+      "iconName": "Linkedin"
+    },
+    {
+      "link": "https://medium.com/@dmitrypavluk",
+      "iconName": "Medium"
+    },
+    {
+      "link": "https://twitter.com/@DmitryPavluk",
+      "iconName": "Twitter"
+    },
+    {
+      "link": "https://angel.co/dmonay",
+      "iconName": "Angellist"
+    }
+  ]
 }

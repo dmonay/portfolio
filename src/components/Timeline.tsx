@@ -1,20 +1,20 @@
 import React from "react";
-import { IconProp } from "@fortawesome/fontawesome-svg-core";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import styled from "styled-components";
+import { School } from "@styled-icons/ionicons-outline/School";
+import { Briefcase } from "@styled-icons/feather/Briefcase";
 
 const Fade = require("react-reveal/Fade");
 
 interface Props {
   time: string;
   title: string;
-  icon: IconProp;
+  icon: string;
   left?: string;
 }
 
 export class Timeline extends React.Component<Props> {
   render() {
-    const props = this.props;
+    const icon = this.props.icon === "education" ? School : Briefcase;
 
     const IconBox = styled.div({
       background: "#09091a",
@@ -24,8 +24,12 @@ export class Timeline extends React.Component<Props> {
       left: this.props.left ? this.props.left : "-10px",
       top: 0,
       zIndex: 1,
-      fontWeight: 900
+      fontWeight: 300
     });
+
+    const StyledIcon = styled(icon)`
+      color: "#25d2db";
+    `;
 
     return (
       <div className="timeline-container">
@@ -37,7 +41,7 @@ export class Timeline extends React.Component<Props> {
           </div>
         </Fade>
         <IconBox>
-          <FontAwesomeIcon icon={props.icon} />
+          <StyledIcon size="32" />
         </IconBox>
       </div>
     );

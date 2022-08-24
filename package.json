@@ -8,11 +8,10 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.30",
-    "@fortawesome/free-brands-svg-icons": "5.14.0",
-    "@fortawesome/free-regular-svg-icons": "5.14.0",
-    "@fortawesome/free-solid-svg-icons": "5.14.0",
-    "@fortawesome/react-fontawesome": "0.1.11",
+    "@styled-icons/boxicons-logos": "^10.38.0",
+    "@styled-icons/feather": "^10.34.0",
+    "@styled-icons/ionicons-outline": "^10.34.0",
+    "@styled-icons/simple-icons": "^10.45.0",
     "bootstrap": "4.5.2",
     "react": "17.0.2",
     "react-bootstrap": "1.3.0",
@@ -22,7 +21,6 @@
     "react-slick": "0.27.10",
     "react-text-loop": "2.3.0",
     "react-tsparticles": "1.18.11",
-    "react-visibility-sensor": "5.1.1",
     "sass": "1.35.2",
     "slick-carousel": "1.8.1",
     "smoothscroll-polyfill": "0.4.4"

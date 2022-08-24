@@ -17,7 +17,7 @@ export class Experience extends React.Component {
                   key={c.company}
                   time={c.period}
                   title={c.title}
-                  icon={["fas", "briefcase"]}
+                  icon={"experience"}
                   left="-7px"
                 >
                   <p>{c.company}</p>

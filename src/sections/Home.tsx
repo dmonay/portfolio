@@ -1,11 +1,25 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import ParticlesContainer from "../components/ParticlesContainer";
 import TextLoop from "react-text-loop";
 import { Scroller } from "../components";
-import { fab } from "@fortawesome/free-brands-svg-icons";
 import details from "../data/details.json";
+
+import { Github } from "@styled-icons/feather/Github";
+import { Linkedin } from "@styled-icons/feather/Linkedin";
+import { Medium } from "@styled-icons/boxicons-logos/Medium";
+import { Twitter } from "@styled-icons/feather/Twitter";
+import { Angellist } from "@styled-icons/simple-icons/Angellist";
+
+type TDict = { [key: string]: JSX.Element };
+
+const iconDictionary: TDict = {
+  Github: <Github size="20" />,
+  Linkedin: <Linkedin size="20" />,
+  Medium: <Medium size="20" />,
+  Twitter: <Twitter size="20" />,
+  Angellist: <Angellist size="20" />
+};
 
 export class Home extends React.Component {
   render() {
@@ -52,7 +66,7 @@ export class Home extends React.Component {
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <FontAwesomeIcon icon={fab[network.iconName]} />
+                    {iconDictionary[network.iconName]}
                   </a>
                 </li>
               ))}
