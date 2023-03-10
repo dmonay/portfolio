@@ -20,7 +20,7 @@ export class Experience extends React.Component {
                   icon={"experience"}
                   left="-7px"
                 >
-                  <p>{c.company}</p>
+                  <p dangerouslySetInnerHTML={{ __html: c.company }} />
                   <div dangerouslySetInnerHTML={{ __html: c.description }} />
                 </Timeline>
               ))}
